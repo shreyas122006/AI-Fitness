@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Fitness Assistant – Exercise Recommendation & AI Trainer ⚡
 
 A production-ready full-stack AI Fitness application built with **FastAPI**, **LangChain**, **Google Gemini 1.5 Flash**, **ExerciseDB API**, and **React (Vite + TypeScript + Tailwind CSS)**.
@@ -194,3 +195,6 @@ EXERCISE_API_BASE=https://exercisedb-api.vercel.app/api/v1
 - [ ] Integration with wearable health devices (Apple HealthKit / Google Fit).
 - [ ] Video playback support for exercise technique demos.
 - [ ] Custom workout routine builder using saved favorite exercises.
+=======
+# AI-Fitness
+>>>>>>> 7a3afd2cc0c6841690896617e0bd4d3d6b973fc5

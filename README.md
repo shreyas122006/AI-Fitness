@@ -1,4 +1,3 @@
-
 # AI Fitness Assistant – Exercise Recommendation & AI Trainer ⚡
 
 A production-ready full-stack AI Fitness application built with **FastAPI**, **LangChain**, **Google Gemini 1.5 Flash**, **ExerciseDB API**, and **React (Vite + TypeScript + Tailwind CSS)**.
